@@ -9,6 +9,6 @@ public class Array {
         b = new int[10];
 
         int[] c = {1,2,3,4};
-        
+
     }
 }
